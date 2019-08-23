@@ -1,0 +1,11 @@
+
+                 JAVA SCRIPT
+
+
+1) Function
+
+2) Event
+    
+3) Array
+
+4) if else
