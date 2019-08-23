@@ -9,3 +9,9 @@
 3) Array
 
 4) if else
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ahsan50414/Works.git
+git push -u origin master
