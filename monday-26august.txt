@@ -1,0 +1,9 @@
+        javascript
+
+1) introduction to form
+
+2)checkbox
+
+3)radiobutton
+
+4)design form and code in java script
