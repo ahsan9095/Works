@@ -1,0 +1,12 @@
+1)Uploading Files:
+
+   1)Configure the Multer module to enable file uploading
+
+   2)Set up your Express server to use Multer to upload files to a designated folder
+
+2)Basic Authentication
+
+
+    1)Used basic authentication support to authenticate users.
+
+
